@@ -103,3 +103,7 @@ Shortcode that displays student's own history.
 ## Author
 
 Created by Fahim for educational purposes.
+
+
+Wordpress plugin 
+
